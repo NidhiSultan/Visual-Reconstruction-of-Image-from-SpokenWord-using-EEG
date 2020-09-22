@@ -34,7 +34,7 @@ closely oure model predicts.
 </p>
 
 ## Made By- Aryan Karn 
-    MNNIT Allahabad
+    
 
 
 
