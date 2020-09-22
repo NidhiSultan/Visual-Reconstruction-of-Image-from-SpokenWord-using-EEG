@@ -7,6 +7,6 @@ neural network to perform this task using a large data set of people
 brain EEG signal. Thus, have collected a EEG dataset consisting of
 2000 audio and visualisation events which can be used to analyse
 temporal visual and auditory responses to spoken word stimuli.And
-finally everything was implemented on MNIST data set. [GoogleDrive](https://drive.google.com/file/d/16cq5Ty7G8bhE7XBZeqt2OUUrW80ZaxHN/view?usp=sharing)
+finally everything was implemented on MNIST data set. 
 
 
