@@ -33,8 +33,8 @@ closely oure model predicts.
     <img src="img/Result.png" alt="Image"/>
 </p>
 
-Made By- Aryan Karn 
-MNNIT Allahabad
+## Made By- Aryan Karn 
+    MNNIT Allahabad
 
 
 
