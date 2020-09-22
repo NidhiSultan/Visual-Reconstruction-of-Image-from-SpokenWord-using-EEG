@@ -12,7 +12,7 @@ finally everything was implemented on MNIST data set.
 
 ## Steps
 <p align="center">
-    <img src="img/Steps.png" alt="Image" width="800" height="700"/>
+    <img src="img/Steps.png" alt="Image" width="500" height="300"/>
 </p>
 
 
