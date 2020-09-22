@@ -1,4 +1,5 @@
 ## Visual Reconstruction of Image from SpokenWord using EEG
+[Datasets](https://github.com/Aryan05/EEG-Datasets)
 
 ### ABSTRACT
 In this project, the main motivation was to construct images from
