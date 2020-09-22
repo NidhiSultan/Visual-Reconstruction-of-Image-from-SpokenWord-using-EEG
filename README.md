@@ -9,4 +9,18 @@ brain EEG signal. Thus, have collected a EEG dataset consisting of
 temporal visual and auditory responses to spoken word stimuli.And
 finally everything was implemented on MNIST data set. 
 
+## Steps
+<p align="center">
+    <img src="img/Steps.png" alt="Image" width="800" height="700"/>
+</p>
+## Results
+We test our model both qualitatively and quantitatively on the
+MNIST dataset . Our goal is to gain insights and to quantify how
+closely oure model predicts.
+
+<p align="center">
+    <img src="img/Result.png" alt="Image"/>
+</p>
+
+
 
