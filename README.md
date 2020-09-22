@@ -13,7 +13,11 @@ finally everything was implemented on MNIST data set.
 <p align="center">
     <img src="img/Steps.png" alt="Image" width="800" height="700"/>
 </p>
-## Results
+
+
+
+
+### Results
 We test our model both qualitatively and quantitatively on the
 MNIST dataset . Our goal is to gain insights and to quantify how
 closely oure model predicts.
