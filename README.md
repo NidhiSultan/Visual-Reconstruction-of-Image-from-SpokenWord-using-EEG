@@ -16,9 +16,7 @@ finally everything was implemented on MNIST data set.
 </p>
 
 ## Loss Graph
-<img src="./img/Loss1.png" alt="Pipeline step 2.5" />
-<img src="./img/Loss2.png" alt="Pipeline step 2.5" />
-<img src="./img/Loss3.png" alt="Pipeline step 2.5" />
+<img src="./img/Loss.png" alt="Pipeline step 2.5" />
 
 
 ### Results
