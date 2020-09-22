@@ -11,7 +11,7 @@ brain EEG signal. Thus, have collected a EEG dataset consisting of
 temporal visual and auditory responses to spoken word stimuli.And
 finally everything was implemented on MNIST data set. 
 <p align="center">
-    <img src="img/Brain.png" alt="Image" width="300" height="200"/>
+    <img src="img/Brain.jpg" alt="Image" width="300" height="200"/>
 </p>
 
 
