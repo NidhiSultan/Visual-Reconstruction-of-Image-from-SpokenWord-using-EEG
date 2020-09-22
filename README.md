@@ -1,6 +1,6 @@
 ## Visual Reconstruction of Image from SpokenWord using EEG
-[Datasets](https://github.com/Aryan05/EEG-Datasets)
-[Link to my Abstract Research Paper](https://drive.google.com/file/d/16cq5Ty7G8bhE7XBZeqt2OUUrW80ZaxHN/view?usp=sharing)
+1.[Datasets](https://github.com/Aryan05/EEG-Datasets)
+2.[Link to my Abstract Research Paper](https://drive.google.com/file/d/16cq5Ty7G8bhE7XBZeqt2OUUrW80ZaxHN/view?usp=sharing)
 
 
 ### ABSTRACT
